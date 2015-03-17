@@ -46,3 +46,12 @@ CHANGES.dist
 .cproject
 .settings
 .dirstamp
+
+
+/lib/libcurl.so
+
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.inc.cmake
